@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hazoo2a.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hazoo2a.github.io/static/js/main.933123ea.chunk.js",
+    "main.js.map": "/hazoo2a.github.io/static/js/main.933123ea.chunk.js.map",
+    "runtime-main.js": "/hazoo2a.github.io/static/js/runtime-main.2958de5e.js",
+    "runtime-main.js.map": "/hazoo2a.github.io/static/js/runtime-main.2958de5e.js.map",
+    "static/js/2.10f4373e.chunk.js": "/hazoo2a.github.io/static/js/2.10f4373e.chunk.js",
+    "static/js/2.10f4373e.chunk.js.map": "/hazoo2a.github.io/static/js/2.10f4373e.chunk.js.map",
+    "static/js/3.16060efe.chunk.js": "/hazoo2a.github.io/static/js/3.16060efe.chunk.js",
+    "static/js/3.16060efe.chunk.js.map": "/hazoo2a.github.io/static/js/3.16060efe.chunk.js.map",
+    "index.html": "/hazoo2a.github.io/index.html",
+    "precache-manifest.173d86947e8b9bb4cc08cf268666e951.js": "/hazoo2a.github.io/precache-manifest.173d86947e8b9bb4cc08cf268666e951.js",
+    "service-worker.js": "/hazoo2a.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hazoo2a.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.10f4373e.chunk.js.LICENSE.txt": "/hazoo2a.github.io/static/js/2.10f4373e.chunk.js.LICENSE.txt",
+    "static/media/hazem.jpg": "/hazoo2a.github.io/static/media/hazem.673e422b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2958de5e.js",
+    "static/js/2.10f4373e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.933123ea.chunk.js"
+  ]
+}
