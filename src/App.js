@@ -8,7 +8,7 @@ const App = () => {
     <Container>
       <Header>
         <h1>Hazem Zidan</h1>
-        <p>Software Engineer | Cybersecurity Enthusiast</p>
+        <p>Software Engineer</p>
         <SocialLinks>
           <a href="https://www.linkedin.com/in/hazem-e-zidan/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
